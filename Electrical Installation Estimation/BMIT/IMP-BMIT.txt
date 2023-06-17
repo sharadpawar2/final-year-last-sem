@@ -1,0 +1,12 @@
+1.	What are the objectives of testing?
+2.	What is significance of ISS?
+3.	Explain the concept of Tolerance
+4.	Explain High voltage test, commutation test for d.c machine.
+5.	Describe the points to be considered for annual maintenance of 3ph I.M
+6.	What are the special tests on 1 ph as well as on 3ph I.M
+7.	Explain brake test on d.c series series motor.
+1.	Give maintenance schedule for distribution transformers as per ISS 1886-1967.
+2.	Classify the different test carried out on transformers as routine, type and special test.
+3.	Explain the procedure for conducting HV test on transformers?
+4.	State the importance of planning of preventive maintenance schedule for transformers.
+8.	State conditions for parallel operations of transformers
